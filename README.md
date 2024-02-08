@@ -1,5 +1,4 @@
 # Tha Menu
-![image](https://hackmd.io/_uploads/r1sp7P-j6.png)
 
 >This is a small project I created using the **MERN** stack.
 >The main goal of it is to **demonstrate my skills** using this set of technologies.
@@ -12,13 +11,12 @@ Using MERN stack
 **R**: React
 **N**: Nodejs
 
-
-
-## Links
-[Tutorial](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=2)
-
 ## How to run
+
+Clone repo, install packages, go to each directory and run following commands:
+
 ### Backend
 `npm run dev`
 ### Frontend
 `npm stat`
+
