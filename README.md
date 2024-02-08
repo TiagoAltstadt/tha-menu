@@ -1,5 +1,5 @@
 # Tha Menu
-![image](https://hackmd.io/_uploads/r1sp7P-j6.png =500x)
+![image](https://hackmd.io/_uploads/r1sp7P-j6.png)
 
 >This is a small project I created using the **MERN** stack.
 >The main goal of it is to **demonstrate my skills** using this set of technologies.
